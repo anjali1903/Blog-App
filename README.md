@@ -1,4 +1,5 @@
 # Blog-App
+It is a simple web app which I made while learning concepts of GET, POST, PUT and DELETE. 
 
 ## How To Run
 
